@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+checkpoints/
+analysis_out/
+data/*/
+!data/README.md
+logs/
+wandb/
+*.pt
+*.safetensors
+*.jsonl

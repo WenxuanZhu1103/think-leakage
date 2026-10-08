@@ -1,0 +1,11 @@
+torch>=2.4
+transformers>=4.51
+vllm>=0.8
+peft>=0.14
+safetensors
+pandas
+pyarrow
+numpy
+scipy
+matplotlib
+verl
